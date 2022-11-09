@@ -2,7 +2,8 @@
 <h2 id="oracle简介" tabindex="-1"><a class="header-anchor" href="#oracle简介" aria-hidden="true">#</a> Oracle简介</h2>
 <h3 id="oracle介绍" tabindex="-1"><a class="header-anchor" href="#oracle介绍" aria-hidden="true">#</a> Oracle介绍</h3>
 <p>Oracle Database，又名Oracle RDBMS，简称Oracle。
-是甲骨文公司的一款关系数据库管理系统。它是在数据库领域一直处于领先地位的产品。可以说Oracle数据库系统是目前世界上流行的关系数据库管理系统，系统可移植性好、使用方便、功能强，适用于各类大、中、小、微机环境。它是一种高效率、可靠性好的适应高吞吐量的数据库解决方案。</p>
+是甲骨文公司的一款关系数据库管理系统。它是在数据库领域一直处于领先地位的产品。可以说Oracle数据库系统是目前世界上流行的关系数据库管理系统，系统可移植性好、使用方便、功能强，适用于各类大、中、小、微机环境。它是一种高效率、可靠性好的适应高吞吐量的数据库解决方案。
+测试666</p>
 <p><strong>数据库在整个程序中占有重要的位置</strong></p>
 <p><img src="http://img.itzhameng.com/blog/image-20220823113118416.png?imageslim" alt="image-20220823113118416" loading="lazy"></p>
 <h3 id="常见的数据库" tabindex="-1"><a class="header-anchor" href="#常见的数据库" aria-hidden="true">#</a> 常见的数据库</h3>
