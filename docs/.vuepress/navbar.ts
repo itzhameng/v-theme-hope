@@ -24,7 +24,7 @@ export default navbar([
       {
         text: "MySQL数据库",
         icon: "mysql",
-        link: "MySQL"
+        link: "mysql"
       },
     ],
   },
