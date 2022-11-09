@@ -91,6 +91,30 @@ export default sidebar({
             },
           ],
         },
+        {
+          text: "三、存储过程",
+          icon: "note",
+          prefix:"02_core/",
+          collapsable: true,
+          children: [
+            "01_ddl.md",
+            "02_dml.md",
+            "03_base_select",
+            "03_base_select",
+            {
+              text: "文章 5-8",
+              icon: "note",
+              collapsable: true,
+              prefix: "article/",
+              children: ["article5", "article6", "article7", "article8"],
+            },
+            {
+              text: "文章 9-12",
+              icon: "note",
+              children: ["article9", "article10", "article11", "article12"],
+            },
+          ],
+        },
       ],
     },
     
