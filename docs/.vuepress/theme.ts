@@ -7,13 +7,13 @@ export default hopeTheme({
 
   author: {
     name: "IT蚱蜢哥",
-    url: "https://mrhope.site",
+    url: "https://itzhameng.com/",
   },
 
   iconAssets: "iconfont",
   // iconAssets: "//at.alicdn.com/t/c/font_3612667_booox1u48pp.css",
 
-  logo: "/logo.svg",
+  logo: "http://img.itzhameng.com/blog/logo.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -41,9 +41,10 @@ export default hopeTheme({
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
   blog: {
-    description: "一个前端开发者",
+    description: "专注Java|大数据记录与分享小栈点",
     intro: "/intro.html",
     medias: {
+      CSDN:"https://www.cnblogs.com/itzhameng/",
       Baidu: "https://example.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
