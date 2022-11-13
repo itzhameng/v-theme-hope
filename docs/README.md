@@ -4,11 +4,20 @@ layout: Blog
 icon: home
 title: IT蚱蜢哥
 hero: false
-category:
-  - HTML
-  - Web
+projects:
 
-
+  - icon: article
+    name: 分类
+    link: /category/
+  - icon: article
+    name: 标签
+    link: /tag/
+  - icon: article
+    name: 收藏
+    link: /star/
+  - icon: article
+    name: 加密
+    link: /encrypted/
 # heroImage: http://img.itzhameng.com/blog/695.jpg
 # heroText: IT蚱蜢哥
 # heroFullScreen: false

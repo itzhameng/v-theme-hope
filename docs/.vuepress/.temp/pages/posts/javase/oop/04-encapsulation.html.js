@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-0bea0cae\",\"path\":\"/posts/javase/oop/04-encapsulation.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/posts/javase/oop/04-encapsulation.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"IT蚱蜢哥\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-11-08T14:58:19.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-11-08T14:58:19.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1667919499000,\"updatedTime\":1667919499000,\"contributors\":[{\"name\":\"IT蚱蜢哥\",\"email\":\"itzhameng@163.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":\"posts/javase/oop/04-encapsulation.md\",\"localizedDate\":\"2022年11月8日\"}")
+export const data = JSON.parse("{\"key\":\"v-0bea0cae\",\"path\":\"/posts/javase/oop/04-encapsulation.html\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/posts/javase/oop/04-encapsulation.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"IT蚱蜢哥\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0,\"words\":0},\"filePathRelative\":\"posts/javase/oop/04-encapsulation.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
