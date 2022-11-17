@@ -93,8 +93,6 @@ export const pagesComponents = {
   "v-e0483fb4": defineAsyncComponent(() => import(/* webpackChunkName: "v-e0483fb4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/linux/02_shell/01.linux_introduce.html.vue")),
   // path: /posts/linux/03_others/01.linux_introduce.html
   "v-228db3b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-228db3b2" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/linux/03_others/01.linux_introduce.html.vue")),
-  // path: /posts/db/mysql/01_bash/01_introduce.html
-  "v-2650bf92": defineAsyncComponent(() => import(/* webpackChunkName: "v-2650bf92" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/01_bash/01_introduce.html.vue")),
   // path: /posts/db/mysql/02_core/01_db_info.html
   "v-9e8a1b68": defineAsyncComponent(() => import(/* webpackChunkName: "v-9e8a1b68" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/01_db_info.html.vue")),
   // path: /posts/db/mysql/02_core/02_ddl.html
@@ -103,6 +101,8 @@ export const pagesComponents = {
   "v-c3f23e54": defineAsyncComponent(() => import(/* webpackChunkName: "v-c3f23e54" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/03_dml.html.vue")),
   // path: /posts/db/mysql/02_core/04_base_select.html
   "v-04588ba4": defineAsyncComponent(() => import(/* webpackChunkName: "v-04588ba4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/04_base_select.html.vue")),
+  // path: /posts/db/mysql/01_bash/01_introduce.html
+  "v-2650bf92": defineAsyncComponent(() => import(/* webpackChunkName: "v-2650bf92" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/01_bash/01_introduce.html.vue")),
   // path: /posts/db/oracle/01_bash/01_introduce.html
   "v-33131da6": defineAsyncComponent(() => import(/* webpackChunkName: "v-33131da6" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/01_bash/01_introduce.html.vue")),
   // path: /posts/db/oracle/01_bash/02_install.html
