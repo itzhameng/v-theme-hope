@@ -1,1 +1,14 @@
-export const data = JSON.parse("{\"key\":\"v-499c3fe5\",\"path\":\"/posts/linux/01_bash/01.linux_introduce.html\",\"title\":\"Linux简介\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"Linux简介 一、Linux简介 二、Linux\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/posts/linux/01_bash/01.linux_introduce.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"IT蚱蜢哥\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Linux简介\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-11-08T14:58:19.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-11-08T14:58:19.000Z\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":3,\"title\":\"一、Linux简介\",\"slug\":\"一、linux简介\",\"children\":[]}],\"git\":{\"createdTime\":1667919499000,\"updatedTime\":1667919499000,\"contributors\":[{\"name\":\"IT蚱蜢哥\",\"email\":\"itzhameng@163.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"posts/linux/01_bash/01.linux_introduce.md\",\"localizedDate\":\"2022年11月8日\"}")
+export const data = JSON.parse("{\"key\":\"v-499c3fe5\",\"path\":\"/posts/linux/01_bash/01.linux_introduce.html\",\"title\":\"Linux简介\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"Linux简介 一、Linux简介 二、Linux\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-v2-demo.mrhope.site/posts/linux/01_bash/01.linux_introduce.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"IT蚱蜢哥\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Linux简介\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":3,\"title\":\"一、Linux简介\",\"slug\":\"一、linux简介\",\"children\":[]}],\"readingTime\":{\"minutes\":0.03,\"words\":9},\"filePathRelative\":\"posts/linux/01_bash/01.linux_introduce.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

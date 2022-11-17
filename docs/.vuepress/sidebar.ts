@@ -184,7 +184,7 @@ export default sidebar({
         activeMatch:"^/posts/frame/javaweb/$",
         children: [
           {
-            text: "Tomcat",
+            text: "JavaWeb",
             // icon: "icon-mysql",
             collapsable: true,
             prefix: "tomcat/",
