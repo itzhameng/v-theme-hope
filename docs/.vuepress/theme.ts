@@ -44,36 +44,38 @@ export default hopeTheme({
     description: "专注Java|大数据记录与分享小栈点",
     intro: "/intro.html",
     medias: {
-      CSDN:"https://www.cnblogs.com/itzhameng/",
-      Baidu: "https://example.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "https://example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
-      GitHub: "https://example.com",
-      Gitlab: "https://example.com",
-      Gmail: "https://example.com",
-      Instagram: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
+      Zhihu: "https://www.zhihu.com/people/itzhamengge",
+      Wechat: "https://mp.weixin.qq.com/s/WT8uNlNgF0md8qLxV8RUxA",
+      Pinterest: "https://blog.csdn.net/weixin_43787953",
+      Discord: "https://www.cnblogs.com/itzhameng/",
+      Steam: "https://juejin.cn/user/1697301684566296",
+      Flipboard: "https://www.jianshu.com/u/66bf5a043f59",
+      Evernote: "https://segmentfault.com/u/itzhameng",
+      Pocket: "https://www.toutiao.com/c/user/token/MS4wLjABAAAAYvdG_ZMmKZIjeybKjQHzKqY1RHEQdJ7jVAeM_ml1vzU",
+      Bitbucket: "https://blog.51cto.com/itzhameng",
+      Dribbble: "https://my.oschina.net/u/3039847",
+      Gitee: "https://gitee.com/itzhameng",
+      GitHub: "https://github.com/itzhameng",
+
+      // Dingding: "https://example.com",
+      // Baidu: "https://example.com",
+      // Dribbble: "https://my.oschina.net/u/3039847",
+      // Email: "https://example.com",
+      // Facebook: "https://example.com",
+      // Gitlab: "https://example.com",
+      // Gmail: "https://example.com",
+      // Instagram: "https://example.com",
+      // Lines: "https://example.com",
+      // Linkedin: "https://example.com",
+      // QQ: "https://example.com",
+      // Qzone: "https://example.com",
+      // Reddit: "https://example.com",
+      // Rss: "https://example.com",
+      // Twitter: "https://example.com",
+      // Weibo: "https://example.com",
+      // Whatsapp: "https://example.com",
+      // Youtube: "https://example.com",
+      
     },
   },
 
@@ -96,10 +98,30 @@ export default hopeTheme({
        * Using Giscus
        */
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "itzhameng/v-theme-hope",
+      repoId: "R_kgDOIZTm_g",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOIZTm_s4CSm7n",
+
+      /**
+       * 默认配置：https://giscus.app/zh-CN
+       * <script src="https://giscus.app/client.js"
+        data-repo="itzhameng/v-theme-hope"
+        data-repo-id="R_kgDOIZTm_g"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOIZTm_s4CSm7n"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+      </script>
+       * 
+       */
 
       /**
        * Using Twikoo

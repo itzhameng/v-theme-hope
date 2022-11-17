@@ -45,8 +45,8 @@ export default sidebar({
             ],
           },
         ],
-      },
-      
+    },
+
       ],
   "/posts/db/mysql/": [
     {
@@ -174,7 +174,56 @@ export default sidebar({
       ],
     },
     
-    ],
+  ],
+  "/posts/frame/javaweb/": [
+      {
+        text: "Tomcat",
+        icon: "stack",
+        prefix: "/posts/frame/javaweb/",
+        link: "/posts/frame/javaweb/README.md",
+        activeMatch:"^/posts/frame/javaweb/$",
+        children: [
+          {
+            text: "Tomcat",
+            // icon: "icon-mysql",
+            collapsable: true,
+            prefix: "tomcat/",
+            children: [
+              "01-web-server",
+              "02-tomcat-install",
+              "03-tomcat-use",
+              "04-idea-tomcat",
+              "05-eclipse-tomcat",
+            ],
+          },
+          {
+            text: "Maven",
+            // icon: "icon-mysql",
+            prefix:"maven/",
+            collapsable: true,
+            children: [
+              "01-maven-introduce",
+              "02-maven-install",
+              "03-maven-config",
+              "04-maven-idea",
+              // {
+              //   text: "文章 5-8",
+              //   icon: "note",
+              //   collapsable: true,
+              //   prefix: "article/",
+              //   children: ["article5", "article6", "article7", "article8"],
+              // },
+              // {
+              //   text: "文章 9-12",
+              //   icon: "note",
+              //   children: ["article9", "article10", "article11", "article12"],
+              // },
+            ],
+          },
+        ],
+    },
+
+      ],
 
 });
 

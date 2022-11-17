@@ -11,6 +11,46 @@ export default navbar([
     // 仅在 `/zh/guide/` 激活
     activeMatch: "^/opsts/javase",
   },
+   {
+    text: "Java核心框架",
+    // link: "/posts/javase/001.introduce",
+    icon: "select",
+    // 仅在 `/zh/guide/` 激活
+    // activeMatch: "^/opsts/javase",
+    prefix: "/posts/frame/",
+    children: [
+      {
+        text: "JavaWeb",
+        icon: "direction",
+        link: "javaweb"
+      },
+      {
+        text: "MyBatis",
+        icon: "mysql",
+        link: "mybatis"
+      },
+      {
+        text: "Spring",
+        icon: "mysql",
+        link: "springframework"
+      },
+      {
+        text: "SpringMVC",
+        icon: "mysql",
+        link: "springmvc"
+      },
+      {
+        text: "SpringBoot",
+        icon: "mysql",
+        link: "springboot"
+      },
+      {
+        text: "SpringCloud",
+        icon: "mysql",
+        link: "springcloud"
+      },
+    ],
+  },
   {
     text: "数据库",
     icon: "stack",

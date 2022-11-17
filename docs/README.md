@@ -5,16 +5,18 @@ icon: home
 title: IT蚱蜢哥
 hero: false
 projects:
-
+  - icon: article
+    name: 文章
+    link: /article/
   - icon: article
     name: 分类
     link: /category/
   - icon: article
     name: 标签
     link: /tag/
-  - icon: article
-    name: 收藏
-    link: /star/
+  # - icon: article
+  #   name: 收藏
+  #   link: /star/
   - icon: article
     name: 加密
     link: /encrypted/

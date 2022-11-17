@@ -1,19 +1,19 @@
 import { defineClientConfig } from "@vuepress/client";
     import { defineAsyncComponent } from "vue";
-import ChartJS from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
-import ECharts from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
-import CodeDemo from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
-import CodeTabs from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
-import FlowChart from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
-import Mermaid from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
-import Presentation from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
-import "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
-import "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
-import "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
-import Tabs from "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
-const Playground = defineAsyncComponent(() => import("D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Playground"));
-import "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
-import "D:/blog/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
+import ChartJS from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ChartJS";
+import ECharts from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/ECharts";
+import CodeDemo from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeDemo";
+import CodeTabs from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/CodeTabs";
+import FlowChart from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/FlowChart";
+import Mermaid from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Mermaid";
+import Presentation from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Presentation";
+import "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/container/index.scss";
+import "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/footnote.scss";
+import "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/image-mark.scss";
+import Tabs from "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Tabs";
+const Playground = defineAsyncComponent(() => import("C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/components/Playground"));
+import "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tasklist.scss";
+import "C:/Users/Administrator/Desktop/v-theme-hope/node_modules/vuepress-plugin-md-enhance/lib/client/styles/tex.scss";
 
 
 export default defineClientConfig({
