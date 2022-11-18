@@ -177,14 +177,14 @@ export default sidebar({
   ],
   "/posts/frame/javaweb/": [
       {
-        text: "Tomcat",
+        text: "JavaWeb",
         icon: "stack",
         prefix: "/posts/frame/javaweb/",
         link: "/posts/frame/javaweb/README.md",
         activeMatch:"^/posts/frame/javaweb/$",
         children: [
           {
-            text: "JavaWeb",
+            text: "Tomcat",
             // icon: "icon-mysql",
             collapsable: true,
             prefix: "tomcat/",
