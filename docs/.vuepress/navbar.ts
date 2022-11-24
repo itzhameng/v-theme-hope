@@ -27,7 +27,7 @@ export default navbar([
       {
         text: "MyBatis",
         icon: "mysql",
-        link: "mybatis"
+        link: "mybatis/introduce"
       },
       {
         text: "Spring",
