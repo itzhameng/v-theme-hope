@@ -47,14 +47,20 @@ export const pagesData = {
   "v-6f83ddc6": () => import(/* webpackChunkName: "v-6f83ddc6" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/javase/001.introduce.html.js").then(({ data }) => data),
   // path: /posts/python/001.html
   "v-d476acf4": () => import(/* webpackChunkName: "v-d476acf4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/python/001.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/
+  "v-c9fba1ae": () => import(/* webpackChunkName: "v-c9fba1ae" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/index.html.js").then(({ data }) => data),
   // path: /posts/db/oracle/Oracle.html
   "v-73a92f74": () => import(/* webpackChunkName: "v-73a92f74" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/Oracle.html.js").then(({ data }) => data),
   // path: /posts/db/oracle/
   "v-221a4295": () => import(/* webpackChunkName: "v-221a4295" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/index.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/
-  "v-c9fba1ae": () => import(/* webpackChunkName: "v-c9fba1ae" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/index.html.js").then(({ data }) => data),
   // path: /posts/frame/javaweb/
   "v-f350a5d8": () => import(/* webpackChunkName: "v-f350a5d8" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/frame/javaweb/index.html.js").then(({ data }) => data),
+  // path: /posts/frame/mybatis/introduce.html
+  "v-6621cf2d": () => import(/* webpackChunkName: "v-6621cf2d" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/frame/mybatis/introduce.html.js").then(({ data }) => data),
+  // path: /posts/frame/mybatis/operate.html
+  "v-34a3aea8": () => import(/* webpackChunkName: "v-34a3aea8" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/frame/mybatis/operate.html.js").then(({ data }) => data),
+  // path: /posts/frame/mybatis/started.html
+  "v-705b4dcb": () => import(/* webpackChunkName: "v-705b4dcb" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/frame/mybatis/started.html.js").then(({ data }) => data),
   // path: /posts/javase/base/01-introduce.html
   "v-2e5b5364": () => import(/* webpackChunkName: "v-2e5b5364" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/javase/base/01-introduce.html.js").then(({ data }) => data),
   // path: /posts/javase/base/02-history.html
@@ -91,6 +97,16 @@ export const pagesData = {
   "v-e0483fb4": () => import(/* webpackChunkName: "v-e0483fb4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/linux/02_shell/01.linux_introduce.html.js").then(({ data }) => data),
   // path: /posts/linux/03_others/01.linux_introduce.html
   "v-228db3b2": () => import(/* webpackChunkName: "v-228db3b2" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/linux/03_others/01.linux_introduce.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/01_bash/01_introduce.html
+  "v-2650bf92": () => import(/* webpackChunkName: "v-2650bf92" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/01_bash/01_introduce.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/02_core/01_db_info.html
+  "v-9e8a1b68": () => import(/* webpackChunkName: "v-9e8a1b68" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/01_db_info.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/02_core/02_ddl.html
+  "v-64b54b24": () => import(/* webpackChunkName: "v-64b54b24" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/02_ddl.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/02_core/03_dml.html
+  "v-c3f23e54": () => import(/* webpackChunkName: "v-c3f23e54" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/03_dml.html.js").then(({ data }) => data),
+  // path: /posts/db/mysql/02_core/04_base_select.html
+  "v-04588ba4": () => import(/* webpackChunkName: "v-04588ba4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/04_base_select.html.js").then(({ data }) => data),
   // path: /posts/db/oracle/01_bash/01_introduce.html
   "v-33131da6": () => import(/* webpackChunkName: "v-33131da6" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/01_bash/01_introduce.html.js").then(({ data }) => data),
   // path: /posts/db/oracle/01_bash/02_install.html
@@ -109,16 +125,6 @@ export const pagesData = {
   "v-2405582c": () => import(/* webpackChunkName: "v-2405582c" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/03_plsql/001.html.js").then(({ data }) => data),
   // path: /posts/db/oracle/06_jobs/001.html
   "v-464090fd": () => import(/* webpackChunkName: "v-464090fd" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/oracle/06_jobs/001.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/01_bash/01_introduce.html
-  "v-2650bf92": () => import(/* webpackChunkName: "v-2650bf92" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/01_bash/01_introduce.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/02_core/01_db_info.html
-  "v-9e8a1b68": () => import(/* webpackChunkName: "v-9e8a1b68" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/01_db_info.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/02_core/02_ddl.html
-  "v-64b54b24": () => import(/* webpackChunkName: "v-64b54b24" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/02_ddl.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/02_core/03_dml.html
-  "v-c3f23e54": () => import(/* webpackChunkName: "v-c3f23e54" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/03_dml.html.js").then(({ data }) => data),
-  // path: /posts/db/mysql/02_core/04_base_select.html
-  "v-04588ba4": () => import(/* webpackChunkName: "v-04588ba4" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/db/mysql/02_core/04_base_select.html.js").then(({ data }) => data),
   // path: /posts/frame/javaweb/maven/01-maven-introduce.html
   "v-4ad41ad0": () => import(/* webpackChunkName: "v-4ad41ad0" */"C:/Users/Administrator/Desktop/v-theme-hope/docs/.vuepress/.temp/pages/posts/frame/javaweb/maven/01-maven-introduce.html.js").then(({ data }) => data),
   // path: /posts/frame/javaweb/maven/02-maven-install.html

@@ -206,20 +206,23 @@ export default sidebar({
               "02-maven-install",
               "03-maven-config",
               "04-maven-idea",
-              // {
-              //   text: "文章 5-8",
-              //   icon: "note",
-              //   collapsable: true,
-              //   prefix: "article/",
-              //   children: ["article5", "article6", "article7", "article8"],
-              // },
-              // {
-              //   text: "文章 9-12",
-              //   icon: "note",
-              //   children: ["article9", "article10", "article11", "article12"],
-              // },
             ],
           },
+        ],
+    },
+
+  ],
+  "/posts/frame/mybatis/": [
+      {
+        text: "MyBatis",
+        icon: "stack",
+        prefix: "/posts/frame/mybatis/",
+        link: "/posts/frame/mybatis/introduce",
+        activeMatch:"^/posts/frame/mybatis/$",
+        children: [
+          "introduce",
+           "started",
+           "operate",
         ],
     },
 
